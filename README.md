@@ -19,4 +19,4 @@
 ![Imagen 4](./src/assets/tic-tac-toe3.png)
 
 ## Link del proyecto
-- Visita el sitio web del [Juego](https://juego-tic-tac-toe2.netlify.app). 
+- Visita el sitio web del [juego](https://juego-tic-tac-toe2.netlify.app). 
