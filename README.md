@@ -8,11 +8,14 @@
   - [React](https://es.react.dev/): Biblioteca Javascript diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.
   - [JSX](https://es.react.dev/learn/writing-markup-with-jsx): (JavaScript Syntax eXtension), es una extensión de sintaxis para JavaScript que permite escribir marcado similar a HTML dentro de una archivo JavaScript.
 
-## Imagen del proyecto
+## Imagenes del juego
 
 ![Imagen 1](./src/assets/tic-tac-toe1.png)
+
 ![Imagen 2](./src/assets/tic-tac-toe4.png)
+
 ![Imagen 3](./src/assets/tic-tac-toe2.png)
+
 ![Imagen 4](./src/assets/tic-tac-toe3.png)
 
 ## Link del proyecto
