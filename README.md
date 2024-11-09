@@ -1,5 +1,5 @@
 # Descripción del Repositorio
-- Este repositorio contiene el juego tic-tac-toe en cual se ponen en practica los conceptos aprendidos con la libreria React.
+- Este repositorio contiene el juego tic-tac-toe en cual se ponen en practica los conceptos aprendidos con la libreria React de Javascript.
 
 - Para la realizacion de este proyecto se utilizaron las siguientes tecnologias:
   - [Html](https://developer.mozilla.org/es/docs/Web/HTML): Lenguaje de marcado para estuctura basica del proyecto en la web.
